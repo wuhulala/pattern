@@ -45,3 +45,13 @@
 >将“请求”封装成对象，以便使用不同的请求，队列或者日志来参数化对象，命令模式也支持可撤销的命令。
 
 1. 代码位置 src/main/java/pattern/factory/command
+
+##状态模式
+>允许对象在内部状态改变时改变它的行为，对象看起来好像修改它的类。
+
+1.  代码位置 src/main/java/pattern/factory/state
+
+##代理模式
+>为另一个对象提供一个替身或占位符以控制对这个对象的访问
+
+1.  代码位置 src/main/java/pattern/factory/proxy
